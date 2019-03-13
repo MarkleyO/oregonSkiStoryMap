@@ -1,62 +1,8 @@
-# oregonSkiStoryMap
-my lab 5
+# oregonSkiStoryMaps
 
-#Outline
-Scenes:
--intro slide done
--Different Resorts (make self) done
-https://www.onthesnow.com/oregon/ski-resorts.html
-  Anthony Lakes Mountain Resort
-  Cooper Spur
-  Hoodoo Ski Area
-  Mt. Ashland
-  Mt. Bachelor
-  Mt. Hood Meadows
-  Mt. Hood Skibowl
-  Stout Springs
-  Timberline Lodge
-  Willamette Pass
--Overall Snowfall map (get from site i found)
--Snowfall By county (make myself with county map[have]) got in json done
--Distance map from corvallis (make self with arrows and stuff)
--Various Mountains on basemap (first from intro slide)
+Initially, I wanted to do a project on the Syrian Civil War, however it proved to be very difficult to find any sort of concrete geospacial data surrounding the topic. As a result, I pivoted to a report on skiing and snow in Oregon, unfortunately this means that there is less of a concrete story to follow.
 
-oregon snowfall data
-https://www.bestplaces.net/climate/county/oregon/baker
-
-Baker 59
-Benton 6
-Clackamas 34
-Clatsop 1
-Columbia 4
-Coos 1
-Crook 27
-Curry 26
-Deschutes 23
-Douglas 3
-Gilliam 27
-Grant 32
-Harney 19
-hood River 54
-Jackson 19
-Jefferson 26
-Josephine 38
-Klamath 62
-Lake 25
-Lane 5
-Lincoln 0
-Linn 4
-Malheur 18
-Marion 11
-Morrow 9
-Multnomah 3
-Polk 5
-Sherman 13
-Tillamook 0
-Umatilla 14
-Union 29
-Wallowa 36
-Wasco 14
-Washington 3
-Wheeler 2
-Yamhill 5
+The story map starts with an opening video that displays to the viewer what skiing actually looks like at an Oregon Mountain. This introduces them to the overall theme of the project.
+Next we see a distribution of average annual snowfall by county in Oregon. This gives us a general idea of where snow actually is in Oregon, and puts it into the context of where people live in Oregon.
+Following that are two scenes which make use of a detailed overlay of snowfall across the country. Establishing a wide view first puts the states snowfall into perspective with the rest of the continent. Upon zooming in to the state, we can notice how the coast is largely empty of snow, and how heavy snowfall coincides with the cascade mountain range that runs through the state.
+Lastly is a sort of call to action which provides basic information about each Resort. Now that people know where the state's resorts are, they can decide which they would like to visit and ski at. After this we close with the final image and end of the story.
